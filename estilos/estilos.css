@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(135, 190, 253);
+}
+
+h1{
+    text-align: left;
+    font-size: x-large;
+    font-family: comic-sans, cursive;
+    color: #e2e4e6;
+    background-color: blue;
+}
+
+h1.center{
+    text-align: center;
+}
+
+h2{
+    text-align: left;
+    font-size: x-large;
+    font-family:'Times New Roman', Times, serif;
+    color: #002880
+}
+
+div{
+    text-align: center;
+}
+
